@@ -1,0 +1,96 @@
+styles.css
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    
+    
+  }
+  
+  .header {
+    
+    background: #000000;
+    border-bottom: 1px solid #ffffff;
+    color: #ff0000;
+  }
+  
+  .container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    color: #ff0505;
+    background: #000000;
+  }
+  
+  .navbar a {
+    margin:  10px;
+    text-decoration: none;
+    color: #ff0000;
+  }
+  
+  .navbar .btn {
+    background: #111111;
+    color: #ec0000;
+    padding: 10px 15px;
+    border-radius: 5px;
+  }
+  
+  .hero {
+    text-align: center;
+    background: #000000;
+    color: #3d2b2b8a;
+    padding: 50px 0;
+  }
+  
+  .how, .offer {
+    text-align: center;
+    padding: 40px 0;
+  }
+  
+  .tabs .tab {
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #000000;
+    cursor: pointer;
+  }
+  
+  .steps .step {
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ffd900;
+  }
+  
+  .services .service {
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #000000;
+  }
+  
+  .footer {
+    background: #000000;
+    color: #2f00ff;
+    padding: 20px 0;
+  }
+  
+  .quick-links ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .quick-links ul li a {
+    color: #f70000;
+    text-decoration: none;
+  }
+  
+  .subscribe-form input, .subscribe-form button {
+    margin: 5px;
+    padding: 10px;
+  }
+  .service{
+    color: #ff0000;
+    background-color: #000000;
+  }
+ 
